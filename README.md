@@ -4,7 +4,7 @@ NGIN-XS is a simple, lightweight, and fast web server written in C++.
 
 </br>
 
-## 🚀 Contributers
+## 🚀 Contributors
 [🍀 sokim](https://github.com/S0YKIM) | [🌙 heehkim](https://github.com/hhkim0729) | [🌰 sarchoi](https://github.com/srngch)
 
 [🔗 노션 정리](https://pouncing-elbow-0a4.notion.site/Webserv-8a8bdaaf878040d1b2267b928d09e5a8)
